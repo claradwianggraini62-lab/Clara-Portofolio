@@ -15,3 +15,12 @@ The analysis includes data cleaning, exploratory data analysis (EDA), and visual
 4. Revenue Contribution Insights - Breaks down revenue by product category, region, and payment channel.
 
 5. Interactive Visualizations - Generates visual summaries using Matplotlib and Seaborn for better interpretation.
+
+
+**Customer Behavior Analysis & Future Purchase Prediction**
+
+This project analyzes e-commerce customer behavior using demographic and behavioral data.
+The goal is to:
+1. Identify key customer segments based on spending and satisfaction.
+2. Understand factors influencing loyalty and repurchase.
+3. 3. Build a predictive model to estimate which customers are likely to make future purchases.
