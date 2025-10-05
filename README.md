@@ -1,4 +1,4 @@
-☕ Coffee Sales Analysis (Overview) - Q4 2025
+**☕ Coffee Sales Analysis (Overview) - Q4 2025**
 
 This project presents an in-depth data analysis of coffee sales performance using Python.
 It explores key trends in customer behavior, transaction volume, revenue contribution, and card usage to uncover actionable business insights.
@@ -17,10 +17,14 @@ The analysis includes data cleaning, exploratory data analysis (EDA), and visual
 5. Interactive Visualizations - Generates visual summaries using Matplotlib and Seaborn for better interpretation.
 
 
-**Customer Behavior Analysis & Future Purchase Prediction**
+🤑**Customer Behavior Analysis & Future Purchase Prediction**
 
 This project analyzes e-commerce customer behavior using demographic and behavioral data.
 The goal is to:
 1. Identify key customer segments based on spending and satisfaction.
 2. Understand factors influencing loyalty and repurchase.
-3. 3. Build a predictive model to estimate which customers are likely to make future purchases.
+3. Build a predictive model to estimate which customers are likely to make future purchases.
+  
+*🥗 Comprehensive Healthy Meal Dataset Analysis*
+
+This project provides an end-to-end exploratory and statistical analysis of a Healthy Meal Dataset, including visualization, nutritional comparisons, statistical testing, and automated daily meal plan recommendations based on diet types.
